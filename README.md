@@ -12,7 +12,7 @@ Here, I rewrite the code to be use in the context of listening the ttys0's file 
 want to stop. This is why I rewrite the code: it's wasn't possible to stop the polling with a command but only with a 
 timeout or a number of try and this is what I did using python object.
 
-###So, the version that I rewrite is useful to listen a file and stop the polling when you want and not with a timeout.
+### So, the version that I rewrite is useful to listen a file and stop the polling when you want and not with a timeout.
 
 # Examples
 
